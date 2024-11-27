@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^8.0.0
     version: 8.7.0
   '@wordpress/dependency-extraction-webpack-plugin':
-    specifier: ^6.0.0
-    version: 6.7.0(webpack@5.95.0)
+    specifier: ^6.13.0
+    version: 6.13.0(webpack@5.95.0)
   '@wordpress/eslint-plugin':
     specifier: ^21.0.0
     version: 21.0.0(@babel/core@7.25.8)(eslint@8.57.1)(prettier@3.3.3)(typescript@5.6.3)
@@ -3226,8 +3226,8 @@ packages:
     engines: {node: '>=18.12.0', npm: '>=8.19.2'}
     dev: true
 
-  /@wordpress/dependency-extraction-webpack-plugin@6.7.0(webpack@5.95.0):
-    resolution: {integrity: sha512-ANsSDMkmb0NGG16NNx9uliXc6hwuE4FJLWdmqju6SGPEMuHa5pr2Xl5hCd154WzoC2VVhYMGNUYoQBRJDFNfkA==}
+  /@wordpress/dependency-extraction-webpack-plugin@6.13.0(webpack@5.95.0):
+    resolution: {integrity: sha512-KMKeSB+Z+n3oFSOFyrPBCHKEQwMHeWS5oFdQ8PivPhJDWBb6Oq11T4PGsPXlGvBI86xGHtD+KFBPsrRwAURa5w==}
     engines: {node: '>=18.12.0', npm: '>=8.19.2'}
     peerDependencies:
       webpack: ^5.0.0
